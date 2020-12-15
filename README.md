@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Python Machine Learning Cookbook - Second Edition 
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/06984bbd7440c034ee95b696f0e419b4/b/1/b12585.png" alt="Python Machine Learning Cookbook - Second Edition " height="256px" align="right"></a>
@@ -63,7 +68,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Giuseppe Ciaburro**
-holds a PhD in environmental technical physics, along with two master's degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at the Built Environment Control Laboratory at the Universit‡ degli Studi della Campania Luigi Vanvitelli, Italy. He has over 15 years' professional experience in programming (Python, R, and MATLAB), first in the field of combustion, and then in acoustics and noise control. He has several publications to his credit.
+holds a PhD in environmental technical physics, along with two master's degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at the Built Environment Control Laboratory at the Universit√† degli Studi della Campania Luigi Vanvitelli, Italy. He has over 15 years' professional experience in programming (Python, R, and MATLAB), first in the field of combustion, and then in acoustics and noise control. He has several publications to his credit.
 
 **Prateek Joshi**
 is an artificial intelligence researcher, an author of several books, and a TEDx speaker. He has been featured in Forbes 30 Under 30, CNBC, TechCrunch, Silicon Valley Business Journal, and many more publications. He is the founder of Pluto AI, a venture-funded Silicon Valley start-up building an intelligence platform for water facilities. He graduated from the University of Southern California with a Master's degree specializing in Artificial Intelligence. He has previously worked at NVIDIA and Microsoft Research.
