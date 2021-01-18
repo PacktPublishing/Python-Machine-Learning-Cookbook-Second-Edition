@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Python Machine Learning Cookbook - Second Edition 
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/06984bbd7440c034ee95b696f0e419b4/b/1/b12585.png" alt="Python Machine Learning Cookbook - Second Edition " height="256px" align="right"></a>
